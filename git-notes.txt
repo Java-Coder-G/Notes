@@ -1,0 +1,10 @@
+git remote add origin https://github.com/Java-Coder-G/FirstJavaCourse.git
+
+git pull origin main
+
+
+how to create a branch 
+
+git branch
+git branch dev-branch-25-01-2025
+git checkout dev-branch-25-01-2025
