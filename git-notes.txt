@@ -1,0 +1,24 @@
+how to add local repo to the git 
+create a repo on local 
+
+right click 
+git init
+git add . 
+git status 
+git commit -m "first commit"
+// create repo in gi-hub //copy url 
+git remote add origin https://github.com/Java-Coder-G/FirstJavaCourse.git
+git push origin master
+
+git pull origin main
+
+
+
+how to create a branch 
+
+git branch
+git branch dev-branch-25-01-2025
+git checkout dev-branch-25-01-2025
+
+
+how to push code to git 
