@@ -1,0 +1,44 @@
+how to add local repo to the git 
+create a repo on local 
+
+right click 
+git init
+git add . 
+git status 
+git commit -m "first commit"
+// create repo in gi-hub //copy url 
+git remote add origin https://github.com/Java-Coder-G/FirstJavaCourse.git
+git push origin master
+
+git pull origin main
+
+
+
+how to create a branch 
+
+git branch
+git branch dev-branch-25-01-2025
+git checkout dev-branch-25-01-2025
+
+
+how to push code to git 
+
+git branch // gives the list of the branches
+git branch name // create a branch called name
+
+git status // unstaged changes red color
+git add . // add all files to staging area
+git status // green color indicates files are staged
+git commit -m "message"
+git status // white means committed
+git checkout name // switch to branch called name
+
+
+On the github account we can check pull requst and compare
+create a pull request
+view changes made
+Check for conflicts
+If not present create a pull request
+Create merge
+Merge the changes
+Delete the merged branch
