@@ -22,3 +22,23 @@ git checkout dev-branch-25-01-2025
 
 
 how to push code to git 
+
+git branch // gives the list of the branches
+git branch name // create a branch called name
+
+git status // unstaged changes red color
+git add . // add all files to staging area
+git status // green color indicates files are staged
+git commit -m "message"
+git status // white means committed
+git checkout name // switch to branch called name
+
+
+On the github account we can check pull requst and compare
+create a pull request
+view changes made
+Check for conflicts
+If not present create a pull request
+Create merge
+Merge the changes
+Delete the merged branch
